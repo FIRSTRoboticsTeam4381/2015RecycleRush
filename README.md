@@ -4,3 +4,4 @@ It is in c++
 
 #Programming team members: 
 Stacy Bennett
+Kyle Bennett
